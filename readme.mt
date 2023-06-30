@@ -1,0 +1,1 @@
+Here, I practiced some arrays' questions in JS.
